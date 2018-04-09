@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.22)  4 APR 2018 20:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.22)  9 APR 2018 14:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -662,28 +662,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 88--92
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--97
+Underfull \hbox (badness 10000) in paragraph at lines 94--101
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--97
+Underfull \hbox (badness 10000) in paragraph at lines 94--101
 
  []
 
 [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 102.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
 
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 102.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
  (./PeerReview2.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 102.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 102.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 115.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
 Package rerunfilecheck Info: File `PeerReview2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 102.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
  )
 (\end occurred inside a group at level 1)
 
@@ -691,18 +691,18 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 102.
 ### bottom level 
 Here is how much of TeX's memory you used:
  12482 strings out of 492982
- 191642 string characters out of 6132527
- 351444 words of memory out of 5000000
+ 191640 string characters out of 6132527
+ 352424 words of memory out of 5000000
  15810 multiletter control sequences out of 15000+600000
  14132 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,7n,40p,977b,1394s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,7n,40p,977b,1391s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mti12.pfb>
-Output written on PeerReview2.pdf (2 pages, 56673 bytes).
+Output written on PeerReview2.pdf (2 pages, 56928 bytes).
 PDF statistics:
  36 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream
